@@ -1,5 +1,5 @@
 # torchcontrol
-A PyTorch library for all things nonlinear control and reinforcement learning.
+A PyTorch Library for Nonlinear Control and Reinforcement Learning
 
 ## Examples
 #### _Neural Model Predictive Control of a Quadcopter_
